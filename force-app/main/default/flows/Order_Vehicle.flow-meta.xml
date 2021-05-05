@@ -48,13 +48,13 @@
         </defaultConnector>
         <defaultConnectorLabel>Default Outcome</defaultConnectorLabel>
         <rules>
-            <name>isPurchase</name>
+            <name>isPurchased</name>
             <conditionLogic>and</conditionLogic>
             <conditions>
                 <leftValueReference>vehicle.Status__c</leftValueReference>
                 <operator>EqualTo</operator>
                 <rightValue>
-                    <stringValue>Purchase</stringValue>
+                    <stringValue>Evaluation</stringValue>
                 </rightValue>
             </conditions>
             <connector>
