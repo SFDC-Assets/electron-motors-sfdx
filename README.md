@@ -4,7 +4,7 @@ This is an end-to-end Salesforce Platform demo based on a fictitious company cal
 
 ## Installation Instructions
 
-Get your own private clone of this demo in a 30-day scratch org by [CLICKING HERE](https://hosted-scratch.herokuapp.com/launch?template=https://github.com/SFDC-Assets/electron-motors-sfdx).
+Get your own private clone of this demo in a 30-day scratch org by [CLICKING HERE](https://hosted-scratch.herokuapp.com/launch?template=https://github.com/SFDC-Assets/electron-motors-sfdx&email=required).
 
 Or manually clone this demo using the instructions below.
 
