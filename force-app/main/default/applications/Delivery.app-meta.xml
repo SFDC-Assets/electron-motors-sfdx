@@ -11,6 +11,7 @@
     <formFactors>Large</formFactors>
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
     <label>Delivery</label>
     <navType>Standard</navType>
     <setupExperience>all</setupExperience>
@@ -23,5 +24,5 @@
     <tabs>Inspection__c</tabs>
     <tabs>Delivery__c</tabs>
     <uiType>Lightning</uiType>
-    <utilityBar>Electra_Motors_UtilityBar</utilityBar>
+    <utilityBar>Electron_Motors_UtilityBar</utilityBar>
 </CustomApplication>

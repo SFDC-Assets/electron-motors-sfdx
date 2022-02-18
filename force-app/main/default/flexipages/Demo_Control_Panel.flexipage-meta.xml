@@ -4,6 +4,7 @@
         <itemInstances>
             <componentInstance>
                 <componentName>DemoControlPanel</componentName>
+                <identifier>DemoControlPanel</identifier>
             </componentInstance>
         </itemInstances>
         <name>main</name>

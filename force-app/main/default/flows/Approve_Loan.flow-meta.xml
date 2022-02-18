@@ -10,7 +10,7 @@
             <assignToReference>oldVehicle.SAP_ID__c</assignToReference>
             <operator>Assign</operator>
             <value>
-                <stringValue/>
+                <stringValue></stringValue>
             </value>
         </assignmentItems>
         <connector>

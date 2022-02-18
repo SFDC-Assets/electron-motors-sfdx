@@ -1,4 +1,3 @@
-
 # Create the scratch org (uncomment for local development)
 # sfdx force:org:delete -u electron-motors-sfdx
 # sfdx force:org:create -f config/project-scratch-def.json --setalias electron-motors-sfdx --setdefaultusername

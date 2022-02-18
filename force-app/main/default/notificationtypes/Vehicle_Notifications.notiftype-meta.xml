@@ -4,4 +4,5 @@
     <desktop>true</desktop>
     <masterLabel>Vehicle Notifications</masterLabel>
     <mobile>true</mobile>
+    <slack>false</slack>
 </CustomNotificationType>
